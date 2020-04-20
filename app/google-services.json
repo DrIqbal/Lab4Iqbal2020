@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23689696679",
+    "firebase_url": "https://lab4iqbal2020.firebaseio.com",
+    "project_id": "lab4iqbal2020",
+    "storage_bucket": "lab4iqbal2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23689696679:android:2800b6236052eacd359282",
+        "android_client_info": {
+          "package_name": "com.example.lab4iqbal2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23689696679-ce9hk5fbscedoig5u8lmgt5ll1a6l3ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab4iqbal2020",
+            "certificate_hash": "6f2904973b7287ab412f9a3a0a8c649ba7f928bf"
+          }
+        },
+        {
+          "client_id": "23689696679-7p2bpikv9qpnrcslslm9k0nokksrk2ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ez3LSqU5lJ3BO5zBdMcLzmHj6w9Q4Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23689696679-7p2bpikv9qpnrcslslm9k0nokksrk2ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
